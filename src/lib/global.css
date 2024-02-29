@@ -1,0 +1,30 @@
+:root {
+    --bg: #f2f2f2;
+    --text-color: #333;
+
+    --primary: rgba(119, 28, 230, 1);
+    --primary-lighter1: rgba(119, 28, 230, 0.9);
+    --primary-lighter2: rgba(119, 28, 230, 0.8);
+    --primary-lighter3: rgba(119, 28, 230, 0.7);
+    --primary-lighter4: rgba(119, 28, 230, 0.6);
+    --primary-lighter5: rgba(119, 28, 230, 0.5);
+    --primary-lighter6: rgba(119, 28, 230, 0.4);
+    --primary-lighter7: rgba(119, 28, 230, 0.3);
+    --primary-lighter8: rgba(119, 28, 230, 0.2);
+    --primary-lighter9: rgba(119, 28, 230, 0.1);
+
+    --primary-dark1: rgb(74, 21, 140);
+    --primary-dark2: rgb(81, 43, 168);
+
+    --success: #00c851;
+    --success-bg: #8be9b1;
+    --success-text: #207e11;
+    --warining: #ffbb33;
+    --warining-bg: #ffeb3b;
+    --warining-text: #ff8f00;
+    --error : #ff4444;
+    --error-bg: #ff8a80;
+    --error-text: #c62828;
+
+    --radius: 1.5rem;
+}
